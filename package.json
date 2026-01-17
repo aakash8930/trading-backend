@@ -4,10 +4,9 @@
   "description": "AI-Powered Solana Paper Trading Bot Backend",
   "main": "dist/server.js",
   "scripts": {
-    "dev": "tsx watch src/server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "type-check": "tsc --noEmit"
+    "dev": "tsx watch src/server.ts"
   },
   "keywords": [
     "solana",
