@@ -15,9 +15,12 @@ const app = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: ['http://localhost:1111', 'http://localhost:5173'],
-    methods: ['GET', 'POST'],
-  },
+    // Allow your specific Render Frontend URL OR use "*" to allow everyone (easier for debugging)
+    origin: "*", 
+    methods: ["GET", "POST"],
+    allowedHeaders: ["my-custom-header"],
+    credentials: true
+  }
 });
 
 app.use(cors());
