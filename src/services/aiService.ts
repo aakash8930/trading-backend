@@ -43,7 +43,8 @@ export class AIService {
   
   // Groq Configuration
   private groq: Groq;
-  private readonly GROQ_MODEL = 'llama3-70b-8192'; // Fast & Smart
+  // UPDATED MODEL NAME: The old 'llama3-70b-8192' is decommissioned
+  private readonly GROQ_MODEL = 'llama-3.3-70b-versatile'; 
   private isAiAvailable: boolean = false;
   
   private newsService: NewsService;
@@ -358,8 +359,3 @@ Respond with JSON only:
       for (const [token, sentiment] of sentiments) {
         this.cachedNewsSentiments.set(token, sentiment.overallSentiment);
       }
-    } catch (error) {
-      console.warn('⚠️ Could not fetch news sentiment');
-    }
-  }
-}
