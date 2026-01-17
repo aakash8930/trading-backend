@@ -1,7 +1,11 @@
 import Groq from 'groq-sdk';
+import dotenv from 'dotenv';
 import { AISignal, MarketData, Position } from '../types';
 import { calculateSMA, calculateRSI, calculateMACD, MACDResult } from '../utils/indicators';
 import { NewsService } from './newsService';
+
+// Load environment variables immediately
+dotenv.config();
 
 interface TechnicalIndicators {
   rsi: number | null;
@@ -47,8 +51,22 @@ export class AIService {
   private cachedNewsSentiments: Map<string, 'bullish' | 'bearish' | 'neutral'> = new Map();
 
   constructor() {
+    // ============================================================
+    // 🔍 DEBUG: API KEY CHECK (This will show in Render Logs)
+    // ============================================================
+    console.log("🔑 [AIService] Initializing...");
+    
+    if (process.env.GROQ_API_KEY) {
+        // Log the first 5 characters to verify it is reading the correct key
+        // Do NOT log the full key for security
+        const keyPrefix = process.env.GROQ_API_KEY.substring(0, 5);
+        console.log(`✅ [AIService] API Key found in Environment: ${keyPrefix}...`);
+    } else {
+        console.error("❌ [AIService] CRITICAL ERROR: GROQ_API_KEY is undefined! Check Render Environment Variables.");
+    }
+    // ============================================================
+
     // Initialize Groq Client
-    // Ensure GROQ_API_KEY is in your .env file
     this.groq = new Groq({
       apiKey: process.env.GROQ_API_KEY || 'dummy_key_to_prevent_crash',
     });
@@ -62,12 +80,13 @@ export class AIService {
    */
   private async checkGroqConnection(): Promise<void> {
     if (!process.env.GROQ_API_KEY) {
-      console.warn('⚠️ GROQ_API_KEY not found in .env. Using Rule-Based Trading only.');
+      console.warn('⚠️ GROQ_API_KEY missing. AI features disabled.');
       this.isAiAvailable = false;
       return;
     }
 
     try {
+      console.log('📡 Testing Groq Connection...');
       // Test the connection with a tiny prompt
       await this.groq.chat.completions.create({
         messages: [{ role: 'user', content: 'ping' }],
@@ -75,11 +94,11 @@ export class AIService {
         max_tokens: 1,
       });
       
-      console.log(`✅ Groq AI connected! Model: ${this.GROQ_MODEL}`);
+      console.log(`✅ Groq AI connected successfully! Model: ${this.GROQ_MODEL}`);
       this.isAiAvailable = true;
-    } catch (error) {
-      console.warn('⚠️ Groq API connection failed. Using Rule-Based Trading only.');
-      // console.error(error); // Uncomment for debugging
+    } catch (error: any) {
+      console.error('❌ Groq Connection Failed:', error?.message || error);
+      console.warn('⚠️ Switching to Rule-Based Trading only.');
       this.isAiAvailable = false;
     }
   }
