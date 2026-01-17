@@ -359,3 +359,8 @@ Respond with JSON only:
       for (const [token, sentiment] of sentiments) {
         this.cachedNewsSentiments.set(token, sentiment.overallSentiment);
       }
+    } catch (error) {
+      console.warn('⚠️ Could not fetch news sentiment');
+    }
+  }
+}
