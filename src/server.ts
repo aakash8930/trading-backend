@@ -14,36 +14,30 @@ dotenv.config();
 const app = express();
 const httpServer = createServer(app);
 
-// 1. FIXED CORS CONFIGURATION
-// We must allow the frontend explicitly to support credentials, OR use '*' without credentials.
-// For now, we will use a flexible function to allow your Render frontend.
-const io = new Server(httpServer, {
-  cors: {
-    origin: (origin, callback) => {
-      // Allow requests with no origin (like mobile apps or curl requests)
-      if (!origin) return callback(null, true);
-      // Allow any Render URL or Localhost
-      if (origin.includes('render.com') || origin.includes('localhost')) {
-        return callback(null, true);
-      }
-      callback(new Error('Not allowed by CORS'));
-    },
-    methods: ["GET", "POST"],
-    credentials: true // Now safe because we aren't using "*"
-  }
+// --- 1. SUPER LOGGING (Moved to Top) ---
+// This will log EVERY request, including CORS Preflight checks
+app.use((req, res, next) => {
+  console.log(`📨 [${req.method}] ${req.url} | Origin: ${req.headers.origin || 'Unknown'}`);
+  next();
 });
 
-// Apply the same CORS logic to Express
-app.use(cors({
-  origin: (origin, callback) => {
-    if (!origin) return callback(null, true);
-    if (origin.includes('render.com') || origin.includes('localhost')) {
-      return callback(null, true);
-    }
-    callback(null, true); // Fallback: Allow it for testing (or change to error for strictness)
-  },
+// --- 2. BULLETPROOF CORS ---
+// "origin: true" tells the server to simply reflect the request's origin.
+// This allows ANY frontend to connect while still supporting credentials/cookies.
+const corsOptions = {
+  origin: true, 
+  methods: ["GET", "POST", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization", "my-custom-header"],
   credentials: true
-}));
+};
+
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions)); // Handle Preflight explicitly
+
+// --- 3. SOCKET.IO CORS ---
+const io = new Server(httpServer, {
+  cors: corsOptions // Match the Express config
+});
 
 app.use(express.json());
 
@@ -58,12 +52,6 @@ const BotState = {
   isTradingActive: false,
   tradingMode: 'PAPER' as 'PAPER' | 'LIVE',
 };
-
-// Logging Middleware
-app.use((req, res, next) => {
-  console.log(`📨 [API] ${req.method} ${req.url}`);
-  next();
-});
 
 // --- ROUTES ---
 
@@ -80,39 +68,38 @@ app.get('/api/status', (req, res) => {
   });
 });
 
-// Toggle Bot Status (THE FIX IS HERE)
+// Toggle Bot Status (DEBUGGED)
 app.post('/api/status', (req, res) => {
   try {
+    console.log('🎚️ [API] Processing Status Toggle Request...');
     const { active } = req.body;
-    console.log(`🎚️ [API] Toggle Status Requested: ${active}`);
     
-    // Validate input
+    // Validate
     if (typeof active !== 'boolean') {
+        console.error('❌ [API] Invalid input:', req.body);
         return res.status(400).json({ success: false, error: 'Invalid active status' });
     }
 
     BotState.isTradingActive = active;
     
-    // Broadcast to WebSocket clients
+    // Broadcast
     io.emit('bot_state', { 
       isTrading: BotState.isTradingActive, 
       mode: BotState.tradingMode 
     });
     
-    console.log(`🤖 Bot is now: ${active ? 'RUNNING 🟢' : 'STOPPED 🔴'}`);
+    console.log(`🤖 Bot Status Updated: ${active ? 'RUNNING 🟢' : 'STOPPED 🔴'}`);
     
-    // ✅ RESPONSE FIX: Ensure we send a valid JSON object
-    return res.status(200).json({ 
+    // Force JSON response
+    res.setHeader('Content-Type', 'application/json');
+    return res.json({ 
         success: true,
         active: active,
-        isTrading: BotState.isTradingActive, 
-        mode: BotState.tradingMode,
         message: active ? 'Bot Started' : 'Bot Paused'
     });
 
   } catch (error) {
     console.error("❌ Error in toggleStatus:", error);
-    // Even in error, return JSON
     return res.status(500).json({ success: false, error: "Internal Server Error" });
   }
 });
