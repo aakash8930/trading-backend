@@ -29,6 +29,7 @@ timestamp,symbol,side,entry_price,exit_price,pnl,balance,reason
 2026-01-29 17:19:52.023401,BTC/USDT,EXIT,0.0011,87736.1,0.1862,1000.22,FINAL
 2026-01-29 18:46:10.636404,BTC/USDT,EXIT,0.0011,88045.1,0.0891,1000.31,FINAL
 
+terminal logs I pasted them here:
 
 🪙 BTC | AI=0.45 | Signal=HOLD
 🪙 ETH | AI=0.38 | Signal=HOLD
@@ -1047,3 +1048,4 @@ timestamp,symbol,side,entry_price,exit_price,pnl,balance,reason
 ⏱ 19:11:32 | Balance=1000.31
 🪙 BTC | AI=0.75 | Signal=HOLD
 🪙 ETH | AI=0.45 | Signal=HOLD
+
