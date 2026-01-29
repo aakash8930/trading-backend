@@ -1,0 +1,1049 @@
+timestamp,symbol,side,entry_price,exit_price,pnl,balance,reason
+2026-01-28 17:30:38,ETH/USDT,LONG,3022.95,3036.89,1.6661,1001.67,EXIT
+2026-01-28 18:49:07,ETH/USDT,LONG,3035.0,3033.16,-0.1914,1001.47,EXIT
+2026-01-28 19:17:50,ETH/USDT,LONG,3035.0,3036.99,0.231,1001.71,EXIT
+2026-01-28 20:17:06,ETH/USDT,LONG,3028.14,3013.0,-1.8064,999.9,EXIT
+2026-01-29 00:21:59.014645,BTC/USDT,EXIT,0.0011,89479.0,-0.439,999.56,FINAL
+2026-01-29 01:22:20.536610,BTC/USDT,EXIT,0.0011,89455.9,0.1045,1000.1,FINAL
+2026-01-29 02:33:24.262175,BTC/USDT,EXIT,0.0011,88869.2,0.5648,1000.67,FINAL
+2026-01-29 03:08:54.693073,BTC/USDT,EXIT,0.0011,89273.5,-0.2514,1000.42,FINAL
+2026-01-29 04:12:51.300952,BTC/USDT,EXIT,0.0011,89183.9,0.1501,1000.57,FINAL
+2026-01-29 05:27:57.904672,BTC/USDT,EXIT,0.0011,89278.1,0.0363,1000.6,FINAL
+2026-01-29 06:03:31.268440,BTC/USDT,EXIT,0.0011,89058.2,0.1851,1000.79,FINAL
+2026-01-29 06:28:53.402449,BTC/USDT,EXIT,0.0011,89078.8,0.0391,1000.83,FINAL
+2026-01-29 07:16:37.552854,BTC/USDT,EXIT,0.0011,88853.5,0.2041,1001.03,FINAL
+2026-01-29 08:20:37.213818,BTC/USDT,EXIT,0.0011,87750.1,-1.0109,1000.02,FINAL
+2026-01-29 08:41:55.898319,BTC/USDT,EXIT,0.0011,88096.7,0.1389,1000.16,FINAL
+2026-01-29 09:09:21.113388,BTC/USDT,EXIT,0.0011,88048.3,-0.0402,1000.12,FINAL
+2026-01-29 09:49:57.599533,BTC/USDT,EXIT,0.0011,87944.0,0.0673,1000.19,FINAL
+2026-01-29 11:22:22.500184,BTC/USDT,EXIT,0.0011,88189.4,0.0264,1000.21,FINAL
+2026-01-29 12:14:08.006944,BTC/USDT,EXIT,0.0011,88300.0,-0.1522,1000.06,FINAL
+2026-01-29 12:48:37.844343,BTC/USDT,EXIT,0.0011,88254.5,-0.0354,1000.03,FINAL
+2026-01-29 13:27:13.614860,BTC/USDT,EXIT,0.0011,88371.9,-0.1026,999.92,FINAL
+2026-01-29 13:56:40.460631,BTC/USDT,EXIT,0.0011,88070.4,0.1705,1000.09,FINAL
+2026-01-29 14:33:14.470106,BTC/USDT,EXIT,0.0011,88095.3,-0.0327,1000.06,FINAL
+2026-01-29 14:53:33.695395,BTC/USDT,EXIT,0.0011,88033.7,0.0173,1000.08,FINAL
+2026-01-29 15:39:15.895670,BTC/USDT,EXIT,0.0011,87892.1,0.0716,1000.15,FINAL
+2026-01-29 15:59:34.447620,BTC/USDT,EXIT,0.0011,87930.8,-0.0723,1000.08,FINAL
+2026-01-29 16:32:05.747934,BTC/USDT,EXIT,0.0011,87911.6,-0.0427,1000.04,FINAL
+2026-01-29 17:19:52.023401,BTC/USDT,EXIT,0.0011,87736.1,0.1862,1000.22,FINAL
+2026-01-29 18:46:10.636404,BTC/USDT,EXIT,0.0011,88045.1,0.0891,1000.31,FINAL
+
+
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 14:57:36 | Balance=1000.08
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 14:58:37 | Balance=1000.08
+🪙 BTC | AI=0.49 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 14:59:38 | Balance=1000.08
+🪙 BTC | AI=0.57 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:00:39 | Balance=1000.08
+🪙 BTC | AI=0.59 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:01:40 | Balance=1000.08
+🪙 BTC | AI=0.58 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:02:41 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:03:42 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:04:43 | Balance=1000.08
+🪙 BTC | AI=0.61 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:05:44 | Balance=1000.08
+🪙 BTC | AI=0.60 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:06:46 | Balance=1000.08
+🪙 BTC | AI=0.55 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:07:47 | Balance=1000.08
+🪙 BTC | AI=0.57 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:08:47 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:09:48 | Balance=1000.08
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:10:49 | Balance=1000.08
+🪙 BTC | AI=0.39 | Signal=BUY
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:11:50 | Balance=1000.08
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:12:51 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=SELL
+🟢 ENTRY BTC SHORT | AI=0.75
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:13:52 | Balance=1000.08
+🪙 BTC | AI=0.69 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:14:53 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=BUY
+
+⏱ 15:15:54 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:16:55 | Balance=1000.08
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:17:55 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=SELL
+
+⏱ 15:18:56 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:19:57 | Balance=1000.08
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:20:58 | Balance=1000.08
+🪙 BTC | AI=0.74 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:21:59 | Balance=1000.08
+🪙 BTC | AI=0.67 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:23:00 | Balance=1000.08
+🪙 BTC | AI=0.66 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:24:01 | Balance=1000.08
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:25:01 | Balance=1000.08
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:26:02 | Balance=1000.08
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:27:03 | Balance=1000.08
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:28:04 | Balance=1000.08
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:29:05 | Balance=1000.08
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:30:06 | Balance=1000.08
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:31:07 | Balance=1000.08
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:32:08 | Balance=1000.08
+🪙 BTC | AI=0.70 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:33:09 | Balance=1000.08
+🪙 BTC | AI=0.66 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:34:10 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:35:11 | Balance=1000.08
+🪙 BTC | AI=0.64 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:36:12 | Balance=1000.08
+🪙 BTC | AI=0.67 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:37:12 | Balance=1000.08
+🪙 BTC | AI=0.67 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:38:14 | Balance=1000.08
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.37 | Signal=HOLD
+
+⏱ 15:39:15 | Balance=1000.08
+🪙 BTC | AI=0.38 | Signal=HOLD
+❌ EXIT BTC | PnL=0.07
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:40:16 | Balance=1000.15
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:41:17 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:42:18 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:43:19 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=BUY
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:44:20 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:45:21 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:46:21 | Balance=1000.15
+🪙 BTC | AI=0.38 | Signal=HOLD
+🪙 ETH | AI=0.38 | Signal=HOLD
+
+⏱ 15:47:22 | Balance=1000.15
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=BUY
+
+⏱ 15:48:23 | Balance=1000.15
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:49:24 | Balance=1000.15
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:50:25 | Balance=1000.15
+🪙 BTC | AI=0.50 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:51:26 | Balance=1000.15
+🪙 BTC | AI=0.51 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:52:27 | Balance=1000.15
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:53:28 | Balance=1000.15
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 15:54:29 | Balance=1000.15
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 15:55:30 | Balance=1000.15
+🪙 BTC | AI=0.50 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 15:56:31 | Balance=1000.15
+🪙 BTC | AI=0.69 | Signal=SELL
+🟢 ENTRY BTC SHORT | AI=0.69
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 15:57:31 | Balance=1000.15
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 15:58:32 | Balance=1000.15
+🪙 BTC | AI=0.52 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 15:59:33 | Balance=1000.15
+🪙 BTC | AI=0.40 | Signal=BUY
+❌ EXIT BTC | PnL=-0.07
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:00:34 | Balance=1000.08
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:01:35 | Balance=1000.08
+🪙 BTC | AI=0.59 | Signal=SELL
+🟢 ENTRY BTC SHORT | AI=0.59
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:02:36 | Balance=1000.08
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:03:37 | Balance=1000.08
+🪙 BTC | AI=0.51 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:04:38 | Balance=1000.08
+🪙 BTC | AI=0.60 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:05:39 | Balance=1000.08
+🪙 BTC | AI=0.48 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:06:40 | Balance=1000.08
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:07:41 | Balance=1000.08
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 16:08:42 | Balance=1000.08
+🪙 BTC | AI=0.41 | Signal=BUY
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 16:09:43 | Balance=1000.08
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 16:10:44 | Balance=1000.08
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 16:11:45 | Balance=1000.08
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 16:12:46 | Balance=1000.08
+🪙 BTC | AI=0.49 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 16:13:47 | Balance=1000.08
+🪙 BTC | AI=0.55 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=SELL
+
+⏱ 16:14:48 | Balance=1000.08
+🪙 BTC | AI=0.53 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=SELL
+
+⏱ 16:15:49 | Balance=1000.08
+🪙 BTC | AI=0.53 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:16:50 | Balance=1000.08
+🪙 BTC | AI=0.47 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:17:52 | Balance=1000.08
+🪙 BTC | AI=0.66 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:18:53 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:19:54 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:20:55 | Balance=1000.08
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:21:56 | Balance=1000.08
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:22:57 | Balance=1000.08
+🪙 BTC | AI=0.42 | Signal=BUY
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:23:57 | Balance=1000.08
+🪙 BTC | AI=0.48 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:24:58 | Balance=1000.08
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:25:59 | Balance=1000.08
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:27:00 | Balance=1000.08
+🪙 BTC | AI=0.57 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:28:01 | Balance=1000.08
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:29:02 | Balance=1000.08
+🪙 BTC | AI=0.52 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:30:03 | Balance=1000.08
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:31:04 | Balance=1000.08
+🪙 BTC | AI=0.49 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:32:05 | Balance=1000.08
+🪙 BTC | AI=0.45 | Signal=HOLD
+❌ EXIT BTC | PnL=-0.04
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:33:06 | Balance=1000.04
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:34:07 | Balance=1000.04
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:35:08 | Balance=1000.04
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:36:09 | Balance=1000.04
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:37:10 | Balance=1000.04
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:38:11 | Balance=1000.04
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:39:12 | Balance=1000.04
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 16:40:12 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:41:13 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:42:15 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:43:15 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:44:16 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:45:17 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:46:18 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:47:19 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:48:20 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:49:21 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=SELL
+🟢 ENTRY BTC SHORT | AI=0.75
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:50:22 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:51:23 | Balance=1000.04
+🪙 BTC | AI=0.66 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:52:24 | Balance=1000.04
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:53:25 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:54:26 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:55:27 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:56:28 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:57:29 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:58:30 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 16:59:31 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:00:32 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:01:33 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:02:34 | Balance=1000.04
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:03:35 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:04:36 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:05:37 | Balance=1000.04
+🪙 BTC | AI=0.61 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:06:38 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:07:39 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:08:40 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:09:41 | Balance=1000.04
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:10:42 | Balance=1000.04
+🪙 BTC | AI=0.65 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:11:43 | Balance=1000.04
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:12:44 | Balance=1000.04
+🪙 BTC | AI=0.65 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:13:45 | Balance=1000.04
+🪙 BTC | AI=0.60 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:14:46 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:15:47 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:16:48 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:17:49 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:18:50 | Balance=1000.04
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:19:51 | Balance=1000.04
+🪙 BTC | AI=0.71 | Signal=HOLD
+❌ EXIT BTC | PnL=0.19
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:20:52 | Balance=1000.22
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:21:53 | Balance=1000.22
+🪙 BTC | AI=0.68 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:22:54 | Balance=1000.22
+🪙 BTC | AI=0.51 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=BUY
+
+⏱ 17:23:54 | Balance=1000.22
+🪙 BTC | AI=0.71 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:24:56 | Balance=1000.22
+🪙 BTC | AI=0.67 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:25:57 | Balance=1000.22
+🪙 BTC | AI=0.63 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:26:57 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:27:58 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:28:59 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:30:00 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=BUY
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:31:01 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:32:02 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:33:03 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:34:04 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:35:05 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:36:06 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:37:06 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:38:07 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:39:08 | Balance=1000.22
+🪙 BTC | AI=0.39 | Signal=HOLD
+🪙 ETH | AI=0.39 | Signal=HOLD
+
+⏱ 17:40:09 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:41:10 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:42:11 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:43:12 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:44:12 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:45:13 | Balance=1000.22
+🪙 BTC | AI=0.40 | Signal=HOLD
+🪙 ETH | AI=0.40 | Signal=HOLD
+
+⏱ 17:46:14 | Balance=1000.22
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:47:15 | Balance=1000.22
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:48:16 | Balance=1000.22
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:49:17 | Balance=1000.22
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:50:18 | Balance=1000.22
+🪙 BTC | AI=0.41 | Signal=HOLD
+🪙 ETH | AI=0.41 | Signal=HOLD
+
+⏱ 17:51:19 | Balance=1000.22
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=SELL
+
+⏱ 17:52:20 | Balance=1000.22
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:53:21 | Balance=1000.22
+🪙 BTC | AI=0.56 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:54:22 | Balance=1000.22
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:55:23 | Balance=1000.22
+🪙 BTC | AI=0.42 | Signal=HOLD
+🪙 ETH | AI=0.42 | Signal=HOLD
+
+⏱ 17:56:24 | Balance=1000.22
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 17:57:25 | Balance=1000.22
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 17:58:26 | Balance=1000.22
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 17:59:27 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 18:00:28 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 18:01:28 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 18:02:29 | Balance=1000.22
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 18:03:30 | Balance=1000.22
+🪙 BTC | AI=0.43 | Signal=HOLD
+🪙 ETH | AI=0.43 | Signal=HOLD
+
+⏱ 18:04:31 | Balance=1000.22
+🪙 BTC | AI=0.44 | Signal=BUY
+🪙 ETH | AI=0.44 | Signal=HOLD
+
+⏱ 18:05:32 | Balance=1000.22
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.44 | Signal=HOLD
+
+⏱ 18:06:33 | Balance=1000.22
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.44 | Signal=HOLD
+
+⏱ 18:07:34 | Balance=1000.22
+🪙 BTC | AI=0.44 | Signal=HOLD
+🪙 ETH | AI=0.44 | Signal=HOLD
+
+⏱ 18:08:35 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:09:36 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:10:36 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=SELL
+
+⏱ 18:11:37 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:12:38 | Balance=1000.22
+🪙 BTC | AI=0.73 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:13:39 | Balance=1000.22
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:14:40 | Balance=1000.22
+🪙 BTC | AI=0.72 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:15:41 | Balance=1000.22
+🪙 BTC | AI=0.56 | Signal=BUY
+🟢 ENTRY BTC LONG | AI=0.56
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:16:41 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:17:42 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=BUY
+
+⏱ 18:18:43 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:19:44 | Balance=1000.22
+🪙 BTC | AI=0.48 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=SELL
+
+⏱ 18:20:45 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=BUY
+
+⏱ 18:21:46 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:22:47 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:23:48 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:24:49 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:25:50 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:26:51 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:27:52 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:28:53 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:29:54 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:30:55 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:31:56 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:32:57 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:33:58 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:34:59 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:36:00 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:37:01 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:38:02 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:39:03 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:40:04 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:41:04 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:42:06 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:43:07 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:44:08 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=SELL
+
+⏱ 18:45:09 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:46:10 | Balance=1000.22
+🪙 BTC | AI=0.45 | Signal=HOLD
+❌ EXIT BTC | PnL=0.09
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:47:11 | Balance=1000.31
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:48:12 | Balance=1000.31
+🪙 BTC | AI=0.45 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:49:12 | Balance=1000.31
+🪙 BTC | AI=0.54 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:50:13 | Balance=1000.31
+🪙 BTC | AI=0.53 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 18:51:14 | Balance=1000.31
+🪙 BTC | AI=0.52 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:52:15 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:53:16 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:54:17 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:55:18 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:56:19 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=BUY
+
+⏱ 18:57:20 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:58:20 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 18:59:21 | Balance=1000.31
+🪙 BTC | AI=0.46 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:00:22 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:01:23 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:02:24 | Balance=1000.31
+🪙 BTC | AI=0.61 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:03:24 | Balance=1000.31
+🪙 BTC | AI=0.69 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:04:26 | Balance=1000.31
+🪙 BTC | AI=0.59 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:05:26 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:06:27 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:07:28 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:08:29 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=SELL
+🟢 ENTRY BTC SHORT | AI=0.75
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:09:30 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.46 | Signal=HOLD
+
+⏱ 19:10:31 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
+
+⏱ 19:11:32 | Balance=1000.31
+🪙 BTC | AI=0.75 | Signal=HOLD
+🪙 ETH | AI=0.45 | Signal=HOLD
